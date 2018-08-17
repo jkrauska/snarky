@@ -1,0 +1,2 @@
+# Ignore vendored code when calculating repo code %s
+src/camlsnark_c/* linguist-vendored
